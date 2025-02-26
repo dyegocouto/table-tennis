@@ -1,2 +1,2 @@
 # table-tennis
- A simple webpage talking about tennis.
+ A simple mockup webpage talking about tennis.
